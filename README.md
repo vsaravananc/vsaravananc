@@ -14,7 +14,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🎯_Status-Focusing-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Experience-1.5+_Years-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-1.8+_Years-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialty-Flutter_&_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 </div>
@@ -31,7 +31,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **Mobile Application Developer** with ~1.5 years of hands-on experience building production-ready apps in **Flutter**. I care less about writing code that *just works* and more about writing code that **survives contact with real users, real edge cases, and the next developer who reads it** — which is usually future me.
+I'm a **Mobile Application Developer** with ~1.8 years of hands-on experience building production-ready apps in **Flutter**. I care less about writing code that *just works* and more about writing code that **survives contact with real users, real edge cases, and the next developer who reads it** — which is usually future me.
 
 I'm currently working at **Alabtechnology**, building and shipping Flutter applications end-to-end — from architecture decisions to the pixel-level polish that makes an app feel finished.
 
@@ -39,7 +39,7 @@ I'm currently working at **Alabtechnology**, building and shipping Flutter appli
 me:
   role: Mobile Application Developer
   focus: Flutter · Dart · Clean Architecture
-  experience: 1.5+ years
+  experience: 1.8+ years
   currently_at: Alabtechnology
   based_in: Chennai, India
   mindset: "ship it clean, or don't ship it"
