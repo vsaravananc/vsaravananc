@@ -10,9 +10,6 @@
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Chennai,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=vsaravananc&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/🎯_Status-Focusing-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Experience-1.8+_Years-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialty-Flutter_&_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -174,9 +171,6 @@ A feature that looks great in a demo but breaks on a slow network or old device 
 ![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white)
 ![Paytm](https://img.shields.io/badge/Paytm-00BAF2?style=flat-square&logo=paytm&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-<br/><br/>
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
