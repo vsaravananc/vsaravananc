@@ -161,7 +161,19 @@ A feature that looks great in a demo but breaks on a slow network or old device 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,figma,androidstudio,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,githubactions,figma,androidstudio,vscode,postman,sentry&theme=dark" />
+
+<br/><br/>
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Shorebird](https://img.shields.io/badge/Shorebird-2B2B2B?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white)
+![Paytm](https://img.shields.io/badge/Paytm-00BAF2?style=flat-square&logo=paytm&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 <br/><br/>
 
@@ -175,6 +187,8 @@ A feature that looks great in a demo but breaks on a slow network or old device 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
+
+<br/>
 
 <br/>
 
