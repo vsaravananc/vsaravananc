@@ -228,11 +228,6 @@ A feature-rich Recipe Book app built with **Clean Architecture**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vsaravananc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsaravananc&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsaravananc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
@@ -242,16 +237,6 @@ A feature-rich Recipe Book app built with **Clean Architecture**.
 </div>
 
 <br/>
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vsaravananc&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🐍 Contribution Snake
 
