@@ -246,7 +246,7 @@ A feature-rich Recipe Book app built with **Clean Architecture**.
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vsaravananc&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vsaravananc&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </div>
 
 <br/>
