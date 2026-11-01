@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Chennai,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=vsaravananc&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/badge/🎯_Status-Focusing-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Experience-1.8+_Years-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-2_Years-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Specialty-Flutter_&_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 </div>
@@ -36,7 +36,7 @@ I'm currently working at **Alabtechnology**, building and shipping Flutter appli
 me:
   role: Mobile Application Developer
   focus: Flutter · Dart · Clean Architecture
-  experience: 1.8+ years
+  experience: 2 years
   currently_at: Alabtechnology
   based_in: Chennai, India
   mindset: "ship it clean, or don't ship it"
